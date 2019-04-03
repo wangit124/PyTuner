@@ -5,4 +5,4 @@ Make sure you have python3 installed, as well as SciPy, Speech Recognition, pyau
 
 Just run the code like this:
 
-python3 tune.py
+```python3 tune.py```
