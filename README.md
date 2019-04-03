@@ -13,5 +13,10 @@ And here might be the result:
 
 Basically, the scheme is note=freq, and the arrows represent how close the note you 
 played is to the outer range. In this case, your note is closer to a G-flat 4 than a G-4.
-Possible notes include all the notes from C-0 to B-8 for every half-step. 
+Possible notes include all the notes from C-0 to B-8 for every half-step. If the output
+only displays one value, for instance:
+
+```(a4 )=440```
+
+Then the note is perfectly in tune with that frequency and key.
 
